@@ -1,3 +1,5 @@
+# Program to implement a linked list data structure from scratch using object-oriented programming
+
 # A class for creating a linked list node object 
 class Node:
     def __init__(self, data):
